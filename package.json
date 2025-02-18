@@ -1,0 +1,30 @@
+{
+  "name": "price-parser-js",
+  "version": "1.0.0",
+  "description": "A powerful library that parses price and currency from text (string). Handles almost every case!",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jetonii/price-parser-js.git"
+  },
+  "keywords": [
+    "price",
+    "parser",
+    "currency",
+    "string",
+    "float",
+    "text",
+    "js",
+    "typescript"
+  ],
+  "author": "Jeton Sllamniku",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
+}
