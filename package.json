@@ -1,6 +1,6 @@
 {
   "name": "price-parser-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A powerful library that parses price and currency from text (string). Handles almost every case!",
   "main": "index.js",
   "types": "index.d.ts",
