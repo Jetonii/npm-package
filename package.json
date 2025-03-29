@@ -26,5 +26,8 @@
   "files": [
     "index.js",
     "index.d.ts"
-  ]
+  ],
+  "dependencies": {
+    "price-parser-js": "file:"
+  }
 }

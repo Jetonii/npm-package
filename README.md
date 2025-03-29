@@ -1,6 +1,14 @@
-# price-parser-js
+# 🏷️ price-parser-js  
+![NPM Version](https://img.shields.io/npm/v/price-parser-js)
+![Downloads](https://img.shields.io/npm/dt/price-parser-js)
 
-A simple library to extract prices and currencies from text.
+A powerful JavaScript library that extracts prices and currency from text! Handles multiple formats and edge cases.
+
+## 🚀 Features
+✅ Extracts price & currency from any text  
+✅ Handles **$, €, £, ₹, ¥**, and more  
+✅ Works with **decimals, commas, and spaces**  
+✅ Supports **JavaScript & TypeScript**  
 
 ## Installation
 
